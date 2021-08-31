@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 var BotId string
-const Token string = "NjIyNDQ0ODkwMTQ3NzgyNjk2.XX0HAg.ugZaHCFfCDmQ6WKA-5Iz3jKRPFE"
+const Token string = ""
 
 
 func Start() {
